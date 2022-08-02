@@ -1,4 +1,4 @@
 name: 'FleshLeather'
-version: '1.0.0'
+version: '1.0.1'
 main: 'com.github.coffeeknife.fleshleather.FleshLeather'
 api-version: '1.19'
