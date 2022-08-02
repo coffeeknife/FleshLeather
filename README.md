@@ -9,3 +9,5 @@ Baby's first Spigot plugin. I made it because I couldn't find a rotten flesh-sme
 - That's literally it
 
 Thanks for coming to my high-effort, low-yield solution to my logs not being perfectly error-free despite the game working right!
+
+Download the plugin on Spigot: https://www.spigotmc.org/resources/fleshleather.103989/
